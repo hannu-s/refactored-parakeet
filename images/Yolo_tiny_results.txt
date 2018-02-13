@@ -1,0 +1,47 @@
+
+Detect from D:\jyu\TIES4911 Deep-Learning for Cognitive Computing for devs\Task 4\images\car_front_AMG.jpeg
+    class : car , [x,y,w,h]=[1948,1594,2561,1637], Confidence = 0.2603861689567566
+Elapsed time : 0.40183067321777344 secs
+
+
+Detect from D:\jyu\TIES4911 Deep-Learning for Cognitive Computing for devs\Task 4\images\car_side_Ferrari_250.jpg
+    class : car , [x,y,w,h]=[856,579,1181,532], Confidence = 0.43133506178855896
+Elapsed time : 0.42305493354797363 secs
+
+
+Detect from D:\jyu\TIES4911 Deep-Learning for Cognitive Computing for devs\Task 4\images\cat.jpg
+Elapsed time : 0.32554173469543457 secs
+
+
+Detect from D:\jyu\TIES4911 Deep-Learning for Cognitive Computing for devs\Task 4\images\dog.jpg
+    class : dog , [x,y,w,h]=[805,368,713,637], Confidence = 0.2295176088809967
+Elapsed time : 0.3583219051361084 secs
+
+
+Detect from D:\jyu\TIES4911 Deep-Learning for Cognitive Computing for devs\Task 4\images\horse.jpeg
+    class : horse , [x,y,w,h]=[904,516,1001,818], Confidence = 0.27905964851379395
+Elapsed time : 0.3575458526611328 secs
+
+
+Detect from D:\jyu\TIES4911 Deep-Learning for Cognitive Computing for devs\Task 4\images\man.jpg
+    class : person , [x,y,w,h]=[932,545,1323,909], Confidence = 0.43848803639411926
+Elapsed time : 0.30571675300598145 secs
+
+
+Detect from D:\jyu\TIES4911 Deep-Learning for Cognitive Computing for devs\Task 4\images\motorcycle_kawasaki.jpg
+    class : motorbike , [x,y,w,h]=[588,484,736,511], Confidence = 0.29996293783187866
+Elapsed time : 0.301027774810791 secs
+
+
+Detect from D:\jyu\TIES4911 Deep-Learning for Cognitive Computing for devs\Task 4\images\plane_b2.jpg
+    class : aeroplane , [x,y,w,h]=[489,315,589,453], Confidence = 0.22578124701976776
+Elapsed time : 0.3120431900024414 secs
+
+
+Detect from D:\jyu\TIES4911 Deep-Learning for Cognitive Computing for devs\Task 4\images\Rocket_Falcon_Heavy.jpg
+Elapsed time : 0.35497283935546875 secs
+
+
+Detect from D:\jyu\TIES4911 Deep-Learning for Cognitive Computing for devs\Task 4\images\woman.jpg
+    class : person , [x,y,w,h]=[304,177,432,306], Confidence = 0.46166548132896423
+Elapsed time : 0.30002641677856445 secs
